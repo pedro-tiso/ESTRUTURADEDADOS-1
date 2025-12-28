@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1761779873 source:c:\users\pedro e paolo\documents\backup\bsi - 2 semestre\estrutura de dados\pilha\pilha1\main.cpp
+	<iostream>
+	"pilha.h"
+
+1761779740 c:\users\pedro e paolo\documents\backup\bsi - 2 semestre\estrutura de dados\pilha\pilha1\pilha.h
+
+1761779715 source:c:\users\pedro e paolo\documents\backup\bsi - 2 semestre\estrutura de dados\pilha\pilha1\pilha.cpp
+	"pilha.h"
+	<iostream>
+

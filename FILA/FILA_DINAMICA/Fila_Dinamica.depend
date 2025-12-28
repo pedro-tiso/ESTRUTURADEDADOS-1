@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1759756867 source:c:\users\pedro e paolo\documents\backup\bsi - 2 semestre\estrutura de dados\pilha\fila_dinamica\main.cpp
+	<iostream>
+	"FilaDinamica.h"
+	<cctype>
+
+1759756854 c:\users\pedro e paolo\documents\backup\bsi - 2 semestre\estrutura de dados\pilha\fila_dinamica\filadinamica.h
+
+1759757299 source:c:\users\pedro e paolo\documents\backup\bsi - 2 semestre\estrutura de dados\pilha\fila_dinamica\filadinamica.cpp
+	<iostream>
+	"FilaDinamica.h"
+	<stdlib.h>
+

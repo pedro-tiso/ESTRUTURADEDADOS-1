@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1759149185 source:d:\2025\estrutura de dados 1\aulas\turma a\fila\filaestatica\filaestatica.cpp
+	<iostream>
+	"FilaEstatica.h"
+	<stdlib.h>
+
+1759149185 d:\2025\estrutura de dados 1\aulas\turma a\fila\filaestatica\filaestatica.h
+
+1759149288 source:d:\2025\estrutura de dados 1\aulas\turma a\fila\filaestatica\main.cpp
+	<iostream>
+	"FilaEstatica.h"
+	<windows.h>
+
+1759359120 source:c:\users\pedro e paolo\downloads\filaestatica\filaestatica\filaestatica.cpp
+	<iostream>
+	"FilaEstatica.h"
+	<stdlib.h>
+
+1759359225 c:\users\pedro e paolo\downloads\filaestatica\filaestatica\filaestatica.h
+
+1759359337 source:c:\users\pedro e paolo\downloads\filaestatica\filaestatica\main.cpp
+	<iostream>
+	"FilaEstatica.h"
+	<windows.h>
+
+1759359120 source:c:\users\pedro e paolo\documents\backup\bsi - 2 semestre\estrutura de dados\filaestatica_01_10\filaestatica.cpp
+	<iostream>
+	"FilaEstatica.h"
+	<stdlib.h>
+
+1759359225 c:\users\pedro e paolo\documents\backup\bsi - 2 semestre\estrutura de dados\filaestatica_01_10\filaestatica.h
+
+1759359337 source:c:\users\pedro e paolo\documents\backup\bsi - 2 semestre\estrutura de dados\filaestatica_01_10\main.cpp
+	<iostream>
+	"FilaEstatica.h"
+	<windows.h>
+

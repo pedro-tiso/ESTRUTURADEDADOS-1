@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1763986069 source:d:\2025\estrutura de dados 1\aulas\turma a\lista duplamente encadeada\listadupla\main.cpp
+	<iostream>
+	"listaDupla.h"
+	<windows.h>
+
+1763986212 d:\2025\estrutura de dados 1\aulas\turma a\lista duplamente encadeada\listadupla\listadupla.h
+
+1763986226 source:d:\2025\estrutura de dados 1\aulas\turma a\lista duplamente encadeada\listadupla\listaduplaenc.cpp
+	<iostream>
+	"listaDupla.h"
+
+1764006055 source:c:\users\pedro e paolo\documents\backup\bsi - 2 semestre\estrutura de dados\listadupla\listaduplaenc.cpp
+	<iostream>
+	"listaDupla.h"
+
+1764005845 c:\users\pedro e paolo\documents\backup\bsi - 2 semestre\estrutura de dados\listadupla\listadupla.h
+
+1764005992 source:c:\users\pedro e paolo\documents\backup\bsi - 2 semestre\estrutura de dados\listadupla\main.cpp
+	<iostream>
+	"listaDupla.h"
+	<windows.h>
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1758546675 source:d:\2025\estrutura de dados 1\aulas\turma b\pilha\pilhadinamica\pilhadinamica\pilhadinamica.cpp
+	<iostream>
+	"pilhaDinamica.h"
+	<stdlib.h>
+
+1758546528 d:\2025\estrutura de dados 1\aulas\turma b\pilha\pilhadinamica\pilhadinamica\pilhadinamica.h
+
+1758547509 source:c:\users\pedro e paolo\documents\backup\bsi - 2 semestre\estrutura de dados\pilhadinamica2\pilhadinamica2\main.cpp
+	<iostream>
+	<windows.h>
+	"pilhaDinamica.h"
+
+1758897070 c:\users\pedro e paolo\documents\backup\bsi - 2 semestre\estrutura de dados\pilhadinamica2\pilhadinamica2\pilhadinamica.h
+
+1758897010 source:c:\users\pedro e paolo\documents\backup\bsi - 2 semestre\estrutura de dados\pilhadinamica2\pilhadinamica2\pilhadinamica.cpp
+	<iostream>
+	"pilhaDinamica.h"
+	<stdlib.h>
+
